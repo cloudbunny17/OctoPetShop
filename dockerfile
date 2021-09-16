@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Hello, it's triggering automatically!"]
+CMD ["echo", "Well,Well it's happening automatically :)!"]
